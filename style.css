@@ -1,0 +1,16 @@
+#nav {
+  margin: 1%;
+  background-color: #C83C53;
+  padding: 0.5em 0;}
+
+#header {
+  text-align: center;}
+
+li {
+	display: inline;
+	padding: 0.5em;}
+
+body {
+	background-image: url("grid.png")}
+h1 {
+	color: #C83C53
