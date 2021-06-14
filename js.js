@@ -7,7 +7,7 @@ function checkForm(form)
     return false;
   }
   
-  var re = /^[/w ]+$/;
+  var re = /^[\w ]+$/;
   
   //validates if name input has invalid character
   if(!re.test(form.namefield.value)) {
