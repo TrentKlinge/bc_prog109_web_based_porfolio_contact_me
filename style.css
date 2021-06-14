@@ -6,6 +6,9 @@
 #header {
   text-align: center;}
 
+#pageContent {
+  text-align: center;}
+
 li {
 	display: inline;
 	padding: 0.5em;}
